@@ -9,6 +9,7 @@ public class Test {
         A.rateofInterest();
          a.rateofInterest();
          B.rateofInterest();
+         System.out.println("made change");
 	}
 
 }
