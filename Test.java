@@ -1,0 +1,14 @@
+package overridfing;
+
+public class Test {
+
+	public static void main(String[] args) {
+		RBIBank A = new RBIBank();
+		 ICICI a=new ICICI();
+         SBI B = new SBI();
+        A.rateofInterest();
+         a.rateofInterest();
+         B.rateofInterest();
+	}
+
+}
