@@ -10,6 +10,7 @@ public class Test {
          a.rateofInterest();
          B.rateofInterest();
          System.out.println("made change");
+         System.out.println("changes madhe mi");
 	}
 
 }
